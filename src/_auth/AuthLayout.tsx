@@ -16,7 +16,6 @@ export default function AuthLayout() {
           </section>
 
           <img
-            // src="/assets/images/side-img.svg"
             src="/assets/images/side-img.svg"
 
             alt="logo"

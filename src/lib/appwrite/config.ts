@@ -3,12 +3,12 @@ import { Client, Account, Databases, Storage, Avatars } from "appwrite";
 
 export const appwriteConfig = {
   url: 'https://cloud.appwrite.io/v1',
-  projectId: '65ff8ee1650f6bcf7508',
-  databaseId: '660117804df4dfdcc005',
-  storageId: '6601174d50722b31a464',
-  userCollectionId: '6601180837038c986ba9',
-  postCollectionId: '660117ba1231a48fec44',
-  savesCollectionId: '6601182cd26d83a3c62b',
+  projectId: '66051ed5f058bf7d6d44',
+  databaseId: '66051f1619c469416acd',
+  storageId: '66051ef73306acdc4770',
+  userCollectionId: '66051f45538c4455ad0e',
+  postCollectionId: '66051f2d4404c0e9dbe4',
+  savesCollectionId: '66051f656397fa92200e',
 };
 
 // export const appwriteConfig = {
